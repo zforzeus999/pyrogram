@@ -184,7 +184,7 @@ class Client(Methods):
             Defaults to 1.
     """
 
-    APP_VERSION = f"Zeus-Userbot {__version__}"
+    APP_VERSION = f"Yuta-Userbot {__version__}"
     DEVICE_MODEL = f"ZeusPhone"
     SYSTEM_VERSION = f"Linux 64"
 
